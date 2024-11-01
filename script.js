@@ -1,1 +1,1 @@
-var nome = 'George'
+var nome = 'George Lucas'
